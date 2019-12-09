@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "webpack --mode development",
     "build": "webpack --mode production",
-    "start": "webpack-dev-server --mode development --open && node server.js"
+    "start": "webpack-dev-server --open && node server.js"
   },
   "author": "Christopher Brian Clark",
   "license": "ISC",
