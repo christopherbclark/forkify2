@@ -1,0 +1,1 @@
+export const proxy = 'https://api.codetabs.com/v1/proxy?quest=';
