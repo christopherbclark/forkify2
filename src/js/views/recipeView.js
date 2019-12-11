@@ -1,4 +1,5 @@
 import { elements } from './base';
+import { aLinks } from './base';
 import { Fraction } from 'fractional'
 
 export const clearRecipe = () => {
@@ -23,6 +24,8 @@ const formatCount = count => {
     return '?';
 };
 
+
+
 const createIngredient = ingredient => `
 
     <li class="recipe__item">
@@ -32,11 +35,13 @@ const createIngredient = ingredient => `
         <div class="recipe__count">${formatCount(ingredient.count)}</div>
         <div class="recipe__ingredient">
             <span class="recipe__unit">${ingredient.unit}</span>
-            ${ingredient.ingredient}
+            <a target="_blank" href=https://www.amazon.com/gp/search?ie=UTF8&tag=forkify-20&linkCode=ur2&linkId=0e33773c42916bb2565a485c68d27f51&camp=1789&creative=9325&index=grocery&keywords=${ingredient.ingredient.split(' ').join('+')}>${ingredient.ingredient}</a>
         </div>
     </li>
 
-`;
+`
+
+;
 
 export const renderRecipe = (recipe, isLiked) => {
 

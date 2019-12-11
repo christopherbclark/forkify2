@@ -12,7 +12,13 @@ export const elements = {
 
 export const elementStrings = {
     loader: 'loader'
-}
+};
+
+export const aLinks = {
+
+    oliveOil: `https://www.amazon.com/gp/product/B00GGBLPVU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GGBLPVU&linkCode=as2&tag=forkify-20&linkId=5546ec6c4a16689cc0add0b7e9995242`
+
+};
 
 export const renderLoader = parent => {
 
