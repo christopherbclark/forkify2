@@ -1,6 +1,8 @@
 # forkify2
 
-Project from The Complete JavaScript Course 2020 taught by Jonas Schmidtmann.
+Final JavaScript Project from The Complete JavaScript Course 2020 taught by Jonas Schmidtmann. You can purchase the course here:
+
+https://www.udemy.com/course/the-complete-javascript-course/
 
 Demo:
 
