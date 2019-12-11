@@ -27,6 +27,7 @@ body {
 .container {
   max-width: 120rem;
   margin: 4vw auto;
+  margin-top: 18px;
   background-color: #fff;
   border-radius: 6px;
   overflow: hidden;
@@ -318,7 +319,7 @@ body {
       top: 0;
       left: 0;
       background-image: linear-gradient(to right bottom, #FBDB89, #F48982);
-      opacity: .6; }
+      opacity: .2; }
   .recipe__img {
     width: 100%;
     display: block;
