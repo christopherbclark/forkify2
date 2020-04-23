@@ -17,3 +17,28 @@ Features:
 
 Note: In the published demo, I loaded the website up with Amazon affiliate links, just for fun. Also, I'm using a different API than what the course uses.
 
+ENJOY!
+
+
+   .:'                                  `:.
+  ::'                                    `::
+ :: :.                                 .: ::
+  `:. `:.             .             .:'  .:'
+   `::. `::           !           ::' .::'
+       `::.`::.    .' ! `.    .::'.::'
+         `:.  `::::'':!:``::::'   ::'
+         :'*:::.  .:' ! `:.  .:::*`:
+        :: HHH::.   ` ! '   .::HHH ::
+       ::: `H TH::.  `!'  .::HT H' :::
+       ::..  `THHH:`:   :':HHHT'  ..::
+       `::      `T: `. .' :T'      ::'
+         `:. .   :         :   . .:'
+           `::'               `::'
+             :'  .`.  .  .'.  `:
+             :' ::.       .:: `:
+             :' `:::     :::' `:
+              `.  ``     ''  .'
+               :`...........':
+               ` :`.     .': '
+                `:  `"""'  :'
+
